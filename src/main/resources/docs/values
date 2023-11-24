@@ -1,0 +1,6 @@
+ id     password                                                   role  user_name
+        1234
+ 1   $2a$12$IAbhcb8x27OWQrafJYogz.kKKKkmC0uGj0kphPE32GYLZ2mEEQuxK  ADMIN   mike
+ 
+        2134
+ 2   $2a$12$u/RZBpNkZ3Rh5.OGf9Hxw.IR48.fs/lCZ6Bj8y/HJqCO4Enst1Ms.  NORMAL  lucy
